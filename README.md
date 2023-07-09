@@ -30,7 +30,7 @@ dos sensores utilizados.
 
 Resposáveis
 
-Artur Figueiredo 
-Lucas Oliveira de Nery Araújo 
-Marco Antônio Pereira Alves Fonseca 
+Artur Figueiredo\ 
+Lucas Oliveira de Nery Araújo\ 
+Marco Antônio Pereira Alves Fonseca\ 
 Paulo Roberto Chiaradia Neto 
